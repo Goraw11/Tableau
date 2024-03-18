@@ -16,8 +16,6 @@ After this, I reviewed the dataset, went thru the data, the various columns, dat
 After this, I started configuring some questions, which I felt would be a good exploration of the data.
 (Detailed below in step # 2).
 
-### (your step 2)
-
 ## Results
 Here are some of the questions I tried to answer using visualizations.
 Question 1: Which species are the most struck by airplanes?
