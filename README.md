@@ -2,6 +2,8 @@
 For my final Tableau project, I decided to go with the FAA Dataset (Option 2).
 In summary, the FAA Dataset describes and tabulates the unfortunate collisions between wildlife (mostly birds) with aircraft (mostly airplanes).
 
+Why I picked this dataset: I am passionate about the environment, and, wildlife is a part of that, as such, I picked the dataset dealing with the damage that airplanes do to wildlife.
+
 ## Project/Goals
 I used this project as an opportunity to consolidate my Tableau learnings.
 I did this by "Asking questions to the data" - to find insights, and further validate my understanding.
