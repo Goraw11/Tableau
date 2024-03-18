@@ -46,3 +46,5 @@ I would spend more time on these items below:
 - Spatial visualizations.
 - Making my dashboard more interactive.
 - Making my dashboard more colorful.
+
+[Link to my Tableau Presentation](https://public.tableau.com/app/profile/gaurav.gujar3146/viz/TableauPresentationFileOption2FAADatasetGujarGAURAV/DashboardSummary?publish=yes) (Visualizations and dashboard): 
